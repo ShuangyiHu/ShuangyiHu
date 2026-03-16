@@ -1,17 +1,6 @@
 
 <div align="center">
 
-
-  <!-- Knock Code Pictures -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" height="225px" />
-    <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" />
-  </picture>
-
-  <!-- for beauty -->
-  <div>&nbsp;</div>
-
 <!-- Dynamic Emojis -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
